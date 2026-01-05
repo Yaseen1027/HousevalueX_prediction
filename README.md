@@ -39,7 +39,7 @@ To build a clean, modular, and reusable house price prediction pipeline by:
 
 ---
 
-## 💾 Model & Pipeline Saving
+# Model & Pipeline Saving
 
 This project uses *joblib* to save preprocessing pipelines and models for:
 - Reusability
